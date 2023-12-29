@@ -2,4 +2,4 @@
 This streamlit web app shows how data gets in descision tree classifier and make predictions using dtreeviz. I used iris dataset of the sklearn to visualize this. 
 
 
-# You can find the demo at https://descision-tree-classifier.streamlit.app/
+You can find the demo at https://descision-tree-classifier.streamlit.app/
